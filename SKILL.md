@@ -2,7 +2,13 @@
 name: intercom
 description: Skill for autonomous agents. Secure & private P2P messaging (sidechannels), sparse state/data + contracts, and optional value transfer. For a true agentic internet.
 ---
-
+## Custom Skill by abikasep
+This is my vibe on Intercom: Agent bisa handle P2P negotiation buat trade meme coin sederhana atau reminder harga BTC.
+Instruksi agent baru:
+- Jika user bilang "harga BTC sekarang?", agent cek via sidechannel atau simulasi.
+- Support private chat invite-only.
+- Tambah PoW light buat anti-spam (optional, kalau lo bisa).
+Use case: AI agent buat crypto monitoring p2p tanpa server.
 # Intercom
 
 ## Description
